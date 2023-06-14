@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/block.json",
+  "apiVersion": 2,
+  "name": "meta-notify/callout",
+  "version": "1.0.0",
+  "title": "Metanotify",
+  "category": "design",
+  "icon": "visibility",
+  "description": "Content below this block will be hidden. Users have to connect their wallet to view the full content.",
+  "supports": {
+    "html": false
+  },
+  "keywords": ["notification", "callout", "metanotify", "visibility"],
+  "textdomain": "meta-notify",
+  "editorStyle": "meta-notify-block-editor",
+  "editorScript": "meta-notify-block-editor",
+  "attributes": {
+    "noEmail": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

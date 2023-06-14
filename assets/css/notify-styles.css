@@ -1,0 +1,16 @@
+:root {
+    --metanotify-bg-color:'';
+    --metanotify-bg-color-0:'';
+    --metanotify-input-color:'';
+    --metanotify-button-color:'';
+    --metanotify-message-color:' ';
+    --metanotify-input-bg-color:'';
+    --metanotify-button-bg-color:'';
+    --metanotify-button-padding-x:'';
+    --metanotify-button-padding-y:'';
+    --metanotify-button-text-size:'';
+    --metanotify-message-text-size:' ';
+    --metanotify-button-border-size:'';
+    --metanotify-button-hover-color:'';
+    --metanotify-button-hover-bg-color:'';
+}
